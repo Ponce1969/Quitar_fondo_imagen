@@ -1,0 +1,5 @@
+<style>
+    .tqdm-progress-wrapper .tqdm-bar {
+        background-color: red;
+    }
+</style>
